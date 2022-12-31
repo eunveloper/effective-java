@@ -3,7 +3,7 @@ package com.example.effective.java.chapter2;
 import java.util.List;
 import java.util.Map;
 
-// 인스턴스화를 막으려거든 private 생성자를 사용하
+// 인스턴스화를 막으려거든 private 생성자를 사용하라
 public class Item4 {
 
     // 자바는 기본적으로 public 생성자를 만들어 주기 때문에
