@@ -2,7 +2,7 @@ package com.example.effective.java.chapter2;
 
 import java.util.*;
 
-// 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라
+// 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라 
 public class Item5 {
 
     // 클래스 내부에 자원이 Set 이라는 인터페이스에 의존을 한다.
