@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Map;
 
 // 인스턴스화를 막으려거든 private 생성자를 사용하라
-public class Item4 {
+public class Item04 {
 
     // 자바는 기본적으로 public 생성자를 만들어 주기 때문에
     // 인스턴스화를 막기 위해선 private 생성자를 추가하여야 한다.
