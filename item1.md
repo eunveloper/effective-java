@@ -1,6 +1,6 @@
 # Item 1. 생성자 대신 정적 팩터리 메서드를 고려하라
 
-보통 객체 생성 방식 : public 생성자를 호출한다. 
+보통 객체 생성 방식 : public 생성자를 호출한다.
 
 ```java
 User user = new User();
