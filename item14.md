@@ -1,4 +1,4 @@
-## Comparable을 구현할지 고민하라
+## Comparable을 구현할지 고민하라 
 Comparable의 유일 무이한 메서드
 그래서 comparable인터 페이스를 구현한다는 말은 comapreTo 메서드를 구현한다는 말이랑 똑같다.
 
